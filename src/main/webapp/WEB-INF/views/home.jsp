@@ -18,6 +18,7 @@
 <body>
 <h1><a href="<c:url value="/" />">spring-mvc-showcase</a></h1>
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
+<p>test</p>
 <div id="tabs">
 	<ul>
 		<li><a href="#simple">Simple</a></li>
